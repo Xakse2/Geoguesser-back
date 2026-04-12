@@ -6,5 +6,5 @@
     "esModuleInterop": true,
     "outDir": "dist"
   },
-  "include": ["src", "../util/fetchBelarusRoads.ts"]
+  "include": ["src/**/*"]
 }
